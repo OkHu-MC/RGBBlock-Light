@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="<MIT>"
+
+[[mods]]
+modId="rgb2"
+version="1.1.8.0"
+displayName="RGB Blocks"
+# The description text for the mod (multi line!) (#mandatory)
+description = '''RGB BLock
+Combination of elements in [00,11,22,33,44,55,66,77,88,99,AA,BB,CC,DD,EE,FF]
+　'''
